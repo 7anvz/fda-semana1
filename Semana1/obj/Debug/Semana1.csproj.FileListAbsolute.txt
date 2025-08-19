@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Semana 1-nrc8453\Semana1\Semana1\bin\Debug\Semana1.exe.config
+C:\Users\UPN\Desktop\Semana 1-nrc8453\Semana1\Semana1\bin\Debug\Semana1.exe
+C:\Users\UPN\Desktop\Semana 1-nrc8453\Semana1\Semana1\bin\Debug\Semana1.pdb
+C:\Users\UPN\Desktop\Semana 1-nrc8453\Semana1\Semana1\obj\Debug\Semana1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 1-nrc8453\Semana1\Semana1\obj\Debug\Semana1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 1-nrc8453\Semana1\Semana1\obj\Debug\Semana1.exe
+C:\Users\UPN\Desktop\Semana 1-nrc8453\Semana1\Semana1\obj\Debug\Semana1.pdb
+C:\Users\UPN\Desktop\Semana 1-nrc8453\Semana1\Semana1\obj\Debug\Semana1.exe.config

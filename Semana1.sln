@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {44B46E99-A512-4FAB-8BDD-24FD3F968100}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana1", "Semana1\Semana1.csproj", "{63BE757D-46FF-47A4-973D-0F349D7C925C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BE757D-46FF-47A4-973D-0F349D7C925C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BE757D-46FF-47A4-973D-0F349D7C925C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BE757D-46FF-47A4-973D-0F349D7C925C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BE757D-46FF-47A4-973D-0F349D7C925C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B46E99-A512-4FAB-8BDD-24FD3F968100}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 0d0718f (Mi primera subida)
