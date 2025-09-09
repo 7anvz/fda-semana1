@@ -28,7 +28,8 @@ namespace semanafour
             //ejer01();
             //ejer02();
             //ejer03();
-            ejer04();
+            //ejer04()
+            ejer05();
         }
 
         static void ejer01()
@@ -73,5 +74,14 @@ namespace semanafour
             Console.WriteLine($"LA RAIZ CUBICA ES: {cubica}");
         }
 
+        static void ejer05()
+        {
+            Console.Write("INGRESE UN NUMERO: ");
+            string num = Console.ReadLine();
+            int entero = int.Parse(num);
+            double deci = double.Parse(num);
+            Console.WriteLine($"RESTO: {entero % 2}");
+            Console.WriteLine($"DECIMAL: {deci / 3}");
+        }
     }
 }

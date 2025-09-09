@@ -18,3 +18,10 @@ def ejer04():
   print(f"REDONDEADO ES: {redo}");
   print(f"ELEVADO AL CUBO ES: {cubo}");
   print(f"LA RAIZ CUBICA ES: {cubica}");
+
+def ejer05():
+     num = input("INGRESE UN NUMERO: ");
+     entero = int(num);
+     decim = float(num);
+     print(f"RESTO: {entero % 2}");
+     print(f"DECIMAL: {decim / 3}");
