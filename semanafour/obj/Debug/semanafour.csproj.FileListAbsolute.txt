@@ -6,3 +6,11 @@ C:\Users\UPN\Downloads\semana4\semanafour\obj\Debug\semanafour.csproj.CoreCompil
 C:\Users\UPN\Downloads\semana4\semanafour\obj\Debug\semanafour.exe
 C:\Users\UPN\Downloads\semana4\semanafour\obj\Debug\semanafour.pdb
 C:\Users\UPN\Downloads\semana4\semanafour\obj\Debug\semanafour.exe.config
+C:\Users\UPN\Downloads\semana4\fda-semana1\semanafour\bin\Debug\semanafour.exe.config
+C:\Users\UPN\Downloads\semana4\fda-semana1\semanafour\bin\Debug\semanafour.exe
+C:\Users\UPN\Downloads\semana4\fda-semana1\semanafour\bin\Debug\semanafour.pdb
+C:\Users\UPN\Downloads\semana4\fda-semana1\semanafour\obj\Debug\semanafour.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\semana4\fda-semana1\semanafour\obj\Debug\semanafour.exe.config
+C:\Users\UPN\Downloads\semana4\fda-semana1\semanafour\obj\Debug\semanafour.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\semana4\fda-semana1\semanafour\obj\Debug\semanafour.exe
+C:\Users\UPN\Downloads\semana4\fda-semana1\semanafour\obj\Debug\semanafour.pdb

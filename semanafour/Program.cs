@@ -25,9 +25,9 @@ namespace semanafour
             //else mensaje = "USTED NO RECIBE BONIFICACIÓN";
             //Console.WriteLine(mensaje);
 
-            ejer01();
+            //ejer01();
             //ejer02();
-            //ejer03();
+            ejer03();
             //ejer04();
         }
 
@@ -42,6 +42,20 @@ namespace semanafour
         static void ejer02()
         {
           Console.WriteLine("\"RENZO\"");
+        }
+        static void ejer03()
+        {
+            Console.WriteLine("INGRESE NUMERO 1: ");
+            int num1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("INGRESE NUMERO 2: ");
+            int num2 = int.Parse(Console.ReadLine());
+            double division = (double)num1 / (double)num2;
+
+            Console.WriteLine($"LA SUMA ES {num1 + num2}");
+            Console.WriteLine($"LA RESTA ES {num1 - num2}");
+            Console.WriteLine($"LA MULTIPLICACION ES {num1 * num2}");
+            Console.WriteLine($"LA DIVISION ES {division:F2}");
+
         }
 
     }
