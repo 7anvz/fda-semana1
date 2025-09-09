@@ -27,8 +27,8 @@ namespace semanafour
 
             //ejer01();
             //ejer02();
-            ejer03();
-            //ejer04();
+            //ejer03();
+            ejer04();
         }
 
         static void ejer01()
@@ -56,6 +56,21 @@ namespace semanafour
             Console.WriteLine($"LA MULTIPLICACION ES {num1 * num2}");
             Console.WriteLine($"LA DIVISION ES {division:F2}");
 
+        }
+        static void ejer04()
+        {
+            Console.Write("INGRESE UN NUMERO DECIMAL: ");
+            double num = double.Parse(Console.ReadLine());
+
+            double raiz = Math.Sqrt(num);
+            double redo = Math.Round(num, 2);
+            double cubo = Math.Pow(num, 3);
+            double cubica = Math.Pow(num, 1/3);
+
+            Console.WriteLine($"LA RAIZ CUADRADA ES: {raiz}");
+            Console.WriteLine($"REDONDEADO ES: {redo}");
+            Console.WriteLine($"ELEVADO AL CUBO ES: {cubo}");
+            Console.WriteLine($"LA RAIZ CUBICA ES: {cubica}");
         }
 
     }
